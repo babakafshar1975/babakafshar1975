@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Babak
 - 👀 I’m interested in android developing, optimization, and clouding.
 - 🌱 I’m currently learning android coding.
-- 💞️ I’m looking to collaborate on optimization algorithms.
+- 💞️ As a researcher in industrial engineering and optimization methods, I’m looking to collaborate on applying the OR to Android development.
 - 📫  you can reach me on babakafshar1975@gmail.com 
 
 <!---
